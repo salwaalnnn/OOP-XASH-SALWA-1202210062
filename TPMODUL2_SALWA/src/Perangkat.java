@@ -16,4 +16,6 @@ public class Perangkat {
         String informasi = "Perangkat tidak diketahui memiliki drive tipe "+ drive + " ram sebesar " + ram + " GB dan processor secepat " + processor + " Ghz";
         return informasi;
     }
+    
 }
+
